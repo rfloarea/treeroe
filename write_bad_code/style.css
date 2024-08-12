@@ -1,0 +1,31 @@
+* {
+  box-sizing: border-box;
+  padding: 0px;
+  margin: 0px;
+}
+
+@font-face {
+  font-family: "alata-regular";
+  src: url("./alata/alata-regular.ttf");
+}
+
+body {
+  background-color: rgb(23, 21, 21);
+  /* background-color: #272727; */
+  /* color: rgba(255, 235, 205, 0.747); */
+  color: #eeeff1;
+  margin-right: 20%;
+  margin-left: 20%;
+  line-height: 2rem;
+  font-family: "alata-regular";
+  font-size: 24px;
+}
+
+h1,
+h2 {
+  margin: 20px 0px 20px 0px;
+}
+
+.FAQ-list {
+  list-style: none;
+}
