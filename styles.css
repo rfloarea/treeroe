@@ -24,9 +24,11 @@ p, h1, h2, h3, h4, h5, h6 {
 }
 
 body {
-  font-family: 'Courier New', Courier, monospace;
+  font-family: monospace, menlo;
   font-size: 2rem;
   background-color: rgba(0, 0, 0, 0.902);
   color: rgb(244, 242, 238);
-  margin: 2rem;
+  margin: 0 auto;
+  width: 80%;
+  max-width: 900px;
 }
