@@ -32,3 +32,7 @@ body {
   width: 80%;
   max-width: 900px;
 }
+
+p {
+  margin-bottom: 2rem;
+}
