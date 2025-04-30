@@ -44,10 +44,10 @@ h6 {
 }
 
 body {
-  font-family: monospace, menlo;
+  font-family: monospace;
   font-size: 1.75rem;
-  background-color: rgba(0, 0, 0, 0.902);
-  color: rgb(244, 242, 238);
+  background-color: #000000;
+  color: #ebebed;
   margin: 0 auto;
   width: 80%;
   max-width: 900px;
@@ -59,4 +59,12 @@ h2 {
 
 p {
   margin-bottom: 2rem;
+}
+
+a {
+  color: #B0FF92;
+}
+
+a:hover {
+  color: #ebebed;
 }
