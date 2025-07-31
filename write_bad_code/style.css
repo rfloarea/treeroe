@@ -29,3 +29,11 @@ h2 {
 .FAQ-list {
   list-style: none;
 }
+
+a {
+  color: #B0FF92;
+}
+
+a:hover {
+  color: #ebebed;
+}
